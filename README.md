@@ -3,8 +3,8 @@
 
 # 結果画像
 
-![結果](result.png)
-- 工夫した点：xxx
+![結果](result1.png)
+- 工夫した点：HalftoneShaderに網点の角度をつけた
 
 # 進め方
 
